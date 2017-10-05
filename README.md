@@ -1,7 +1,7 @@
 # saliency_metrics
 
 
-Metrics for comparing two salience maps or two fixation maps. These metrics are implemented in https://github.com/cvzoya/saliency/tree/master/code_forMetrics . This is just a reimplementation in python. 
+Metrics for comparing two salience maps or two fixation maps. These metrics are implemented in matlab here https://github.com/cvzoya/saliency/tree/master/code_forMetrics . This is just a reimplementation of the metrics in python. 
 The salience benchmark (in matlab) and this code produce the same measures for the same set of inputs. 
 
 
